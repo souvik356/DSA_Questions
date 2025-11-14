@@ -12,7 +12,7 @@
  */
 var hasCycle = function(head) {
     let curr = head
-    if(!curr || !curr.next) return false
+    // if(!curr) return false
     let set = new Set()
 
     while(curr){

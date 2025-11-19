@@ -11,14 +11,19 @@
  * @return {number[]}
  */
 var postorderTraversal = function(root) {
+    if(!root) return []
+    let s1 = [root]
+    let s2 = []
     let ans = []
-
-    function traverse(curr){
-        if(!curr) return
-        traverse(curr.left)
-        traverse(curr.right)
-        ans.push(curr.val)
+    while(s1.length){
+        let curr = s1.pop()
+        s2.push(curr.val)
+        if(curr.left) s1.push(curr.left)
+        if(curr.right) s1.push(curr.right)
     }
-    traverse(root)
+    // console.log(s2)
+    while(s2.length){
+        ans.push(s2.pop())
+    }
     return ans
 };

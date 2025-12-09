@@ -12,13 +12,13 @@
  */
 var goodNodes = function(root) {
     let count = 0
-    function traverse(curr,maxLastNode){
-        if(curr.val >= maxLastNode){
-            count=count+1
+    function traverse(curr,value){
+        if(curr.val >= value){
+            count += 1
         }
-        let maxNode = Math.max(maxLastNode,curr.val)
-       curr.left && traverse(curr.left,maxNode)
-       curr.right && traverse(curr.right,maxNode)
+        let newVal = Math.max(curr.val,value)
+        curr.left && traverse(curr.left,newVal)
+        curr.right && traverse(curr.right,newVal)
     }
 
     traverse(root,-Infinity)

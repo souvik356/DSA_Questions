@@ -13,12 +13,13 @@
 var preorderTraversal = function(root) {
     let ans = []
     if(!root) return ans
-    function traverse(curr){
-        if(!curr) return 
-         ans.push(curr.val)
-         traverse(curr.left)
-         traverse(curr.right)
+    let stack = [root]
+    while(stack.length) {
+        let curr = stack.pop()
+        ans.push(curr.val)
+        curr.right && stack.push(curr.right)
+        curr.left && stack.push(curr.left)
     }
-    traverse(root)
+
     return ans
 };

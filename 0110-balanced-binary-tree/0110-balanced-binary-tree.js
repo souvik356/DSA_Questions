@@ -11,17 +11,19 @@
  * @return {boolean}
  */
 var isBalanced = function(root) {
-    if(!root) return true
     let ans = true
-    function calculateHeight(curr){
+    function traverse(curr){
         if(!curr) return 0
-        let leftTree = calculateHeight(curr.left)
-        let rightTree = calculateHeight(curr.right)
-        if(Math.abs(leftTree-rightTree) > 1){
-            ans = ans && false
+        const leftTree = traverse(curr.left)
+        const rightTree = traverse(curr.right)
+
+        let result = Math.abs(leftTree - rightTree)
+        if(result > 1){
+            ans = false
         }
+
         return 1 + Math.max(leftTree,rightTree)
     }
-    calculateHeight(root)
+    traverse(root)
     return ans
 };

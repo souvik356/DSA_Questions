@@ -12,26 +12,24 @@
  * @return {boolean}
  */
 var isSubtree = function(root, subRoot) {
-    let rootSerialisation = serialisation(root)
-    let subRootSerialisation = serialisation(subRoot)
-
-    console.log(rootSerialisation)
-    console.log(subRootSerialisation)
-
-    let ans = rootSerialisation.includes(subRootSerialisation)
-    return ans
+    let rootTree = serialisation(root)
+    let subRootTree = serialisation(subRoot)
+    console.log(rootTree)
+    console.log(subRootTree)
+    return rootTree.includes(subRootTree)
 };
 
-function serialisation(root){
+function serialisation (root) {
     let str = ""
-    let traverse = (curr)=>{
-        if(!curr) {
-        str += "-#"
+    function traverse(curr){
+        if(!curr){
+        str += "#-"
         return
-    }
-    str = str + "-" + curr.val
-    traverse(curr.left)
-    traverse(curr.right)
+        }
+
+        str = str + '-' + curr.val 
+         traverse(curr.left)
+         traverse(curr.right)
     }
     traverse(root)
     return str

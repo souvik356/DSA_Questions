@@ -11,15 +11,15 @@
  * @return {number}
  */
 var diameterOfBinaryTree = function(root) {
-    let maxDiameter = 0
-    function calculateHeight(curr){
+    let maxDiameter = -Infinity
+    function findHeight(curr){
         if(!curr) return 0
-        let leftTree = calculateHeight(curr.left)
-        let rightTree = calculateHeight(curr.right)
-        let newDiameter = leftTree + rightTree
-        maxDiameter = Math.max(maxDiameter,newDiameter)
+        let leftTree = findHeight(curr.left)
+        let rightTree = findHeight(curr.right)
+        let diameter = leftTree + rightTree
+        maxDiameter = Math.max(maxDiameter,diameter)
         return 1 + Math.max(leftTree,rightTree)
     }
-    calculateHeight(root)
+    findHeight(root)
     return maxDiameter
 };

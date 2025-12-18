@@ -12,7 +12,7 @@ var search = function(nums, target) {
             return mid
         }
         else if(nums[l] <= nums[mid]){
-            if(nums[l] <= target && target < nums[mid]){
+            if(nums[l] <= target && target <= nums[mid]){
                 r = mid - 1
             }
             else{
@@ -20,7 +20,7 @@ var search = function(nums, target) {
             }
         }
         else{
-            if(nums[mid] < target && target <= nums[r]){
+            if(nums[mid] <= target && target <= nums[r]){
                 l = mid + 1
             }
             else{

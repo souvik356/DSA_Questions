@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/souvik356/DSA_Questions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/souvik356/DSA_Questions/tree/master/0069-sqrtx) |
 ## Design
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/souvik356/DSA_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/souvik356/DSA_Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

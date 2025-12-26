@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/souvik356/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souvik356/DSA_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/souvik356/DSA_Questions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/souvik356/DSA_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/souvik356/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
@@ -157,5 +159,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/souvik356/DSA_Questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/souvik356/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+## Sorting
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->

@@ -11,19 +11,15 @@
  * @return {ListNode}
  */
 var removeElements = function(head, val) {
-    if(!head) return head
     let sentinelNode = new ListNode()
     sentinelNode.next = head
     let curr = sentinelNode
-
-    while(curr && curr.next){
-        if(curr.next.val === val){
+    while(curr.next){
+        if(curr.next.val == val){
             curr.next = curr.next.next
-        }
-        else{
-            curr = curr.next
+        }else{
+            curr=curr.next
         }
     }
-
     return sentinelNode.next
 };

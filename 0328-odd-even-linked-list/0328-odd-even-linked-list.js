@@ -11,9 +11,9 @@
  */
 var oddEvenList = function(head) {
     if(!head) return head
-    let odd = head
-    let even = head.next
-    let evenStart = even
+    let odd=head
+    let even=head.next
+    let evenStart=even
     while((odd && odd.next) && (even && even.next)){
         odd.next = odd.next.next
         even.next = even.next.next

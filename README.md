@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/souvik356/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2942-find-words-containing-character](https://github.com/souvik356/DSA_Questions/tree/master/2942-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/souvik356/DSA_Questions/tree/master/0058-length-of-last-word) |
+| [2942-find-words-containing-character](https://github.com/souvik356/DSA_Questions/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/souvik356/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souvik356/DSA_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0771-jewels-and-stones](https://github.com/souvik356/DSA_Questions/tree/master/0771-jewels-and-stones) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/souvik356/DSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -186,4 +187,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/souvik356/DSA_Questions/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/souvik356/DSA_Questions/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/souvik356/DSA_Questions/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/souvik356/DSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/souvik356/DSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->

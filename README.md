@@ -178,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/souvik356/DSA_Questions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

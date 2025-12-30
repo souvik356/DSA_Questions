@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/souvik356/DSA_Questions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/souvik356/DSA_Questions/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/souvik356/DSA_Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/souvik356/DSA_Questions/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/souvik356/DSA_Questions/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/souvik356/DSA_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/souvik356/DSA_Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/souvik356/DSA_Questions/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/souvik356/DSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -202,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/souvik356/DSA_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/souvik356/DSA_Questions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

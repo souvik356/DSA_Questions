@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/souvik356/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souvik356/DSA_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/souvik356/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/souvik356/DSA_Questions/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/souvik356/DSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/souvik356/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/souvik356/DSA_Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/souvik356/DSA_Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/souvik356/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/souvik356/DSA_Questions/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/souvik356/DSA_Questions/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/souvik356/DSA_Questions/tree/master/1221-split-a-string-in-balanced-strings) |

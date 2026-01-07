@@ -8,7 +8,6 @@ var maxFreqSum = function(s) {
         map[s[i]] ? ++map[s[i]] : map[s[i]] = 1
     }
 
-    // console.log(map)
     let vowelCount = 0
     let consonentCount = 0
     const vowelArr = ['a','e','i','o','u']
@@ -21,6 +20,5 @@ var maxFreqSum = function(s) {
             consonentCount = Math.max(map[s[i]],consonentCount)
         }
     }
-    // console.log(vowelCount,consonentCount)
     return vowelCount + consonentCount
 };

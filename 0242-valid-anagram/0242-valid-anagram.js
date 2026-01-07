@@ -5,26 +5,20 @@
  */
 var isAnagram = function(s, t) {
     if(s.length !== t.length) return false
-    let map={}
+    let mapS = {}
 
     for(let i=0;i<s.length;i++){
-        if(map[s[i]]){
-            ++map[s[i]]
-        }else{
-            map[s[i]] = 1
-        }
+        !mapS[s[i]] ? mapS[s[i]] = 1: ++mapS[s[i]]
     }
 
-    // console.log(map)
-
-    for(let j=0;j<t.length;j++){
-        if(!map[t[j]]){
+    console.log(mapS)
+    for(let i=0;i<t.length;i++){
+        if(!mapS[t[i]]){
             return false
-        }else{
-            --map[t[j]]
         }
-
+        else{
+            --mapS[t[i]]
+        }
     }
-
     return true
 };

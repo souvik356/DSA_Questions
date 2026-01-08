@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/souvik356/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/souvik356/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souvik356/DSA_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/souvik356/DSA_Questions/tree/master/0242-valid-anagram) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/souvik356/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/souvik356/DSA_Questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/souvik356/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/souvik356/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/souvik356/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/souvik356/DSA_Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/souvik356/DSA_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/souvik356/DSA_Questions/tree/master/0242-valid-anagram) |

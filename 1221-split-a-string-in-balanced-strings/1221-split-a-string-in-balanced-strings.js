@@ -2,25 +2,25 @@
  * @param {string} s
  * @return {number}
  */
-var balancedStringSplit = function(s) { 
-    let R=0
-    let L=0
-    let count = 0
+var balancedStringSplit = function(s) {
+    let countR = 0
+    let countL = 0 
+    let count = 0 
     for(let i=0;i<s.length;i++){
         if(s[i] == 'R'){
-            R+=1
-            if(R==L){
+            countR+=1
+            if(countR==countL){
                 count+=1
-                L=0
-                R=0
+                countR=0
+                countL=0
             }
         }
-        else if(s[i] == 'L'){
-            L+=1
-            if(R==L){
+        else{
+            countL+=1
+            if(countR==countL){
                 count+=1
-                L=0
-                R=0
+                countR=0
+                countL=0
             }
         }
     }

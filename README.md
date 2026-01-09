@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/souvik356/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souvik356/DSA_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/souvik356/DSA_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/souvik356/DSA_Questions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/souvik356/DSA_Questions/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/souvik356/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/souvik356/DSA_Questions/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/souvik356/DSA_Questions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/souvik356/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |

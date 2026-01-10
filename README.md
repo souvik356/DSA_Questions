@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/souvik356/DSA_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/souvik356/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/souvik356/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souvik356/DSA_Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/souvik356/DSA_Questions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/souvik356/DSA_Questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |

@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/souvik356/DSA_Questions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/souvik356/DSA_Questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/souvik356/DSA_Questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/souvik356/DSA_Questions/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/souvik356/DSA_Questions/tree/master/1903-largest-odd-number-in-string) |

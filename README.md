@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/souvik356/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/souvik356/DSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/souvik356/DSA_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/souvik356/DSA_Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/souvik356/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/souvik356/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/souvik356/DSA_Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/souvik356/DSA_Questions/tree/master/0125-valid-palindrome) |

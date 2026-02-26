@@ -8,10 +8,10 @@ var twoSum = function(nums, target) {
     for(let i=0;i<nums.length;i++){
         map[nums[i]] = i
     }
-    for(let j=0;j<nums.length;j++){
-        let numberToFind = target - nums[j]
-        if(map[numberToFind] && j !== map[numberToFind]){
-            return [j,map[numberToFind]]
+    for(let i=0;i<nums.length;i++){
+        let numberTobeFind = target - nums[i]
+        if(map[numberTobeFind] && i !== map[numberTobeFind]){
+            return [i,map[numberTobeFind]]
         }
     }
 };

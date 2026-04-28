@@ -11,15 +11,14 @@
  * @return {number[]}
  */
 var preorderTraversal = function(root) {
-    let ans = []
-    if(!root) return ans
+    if(!root) return []
     let stack = [root]
-    while(stack.length) {
+    let arr = []
+    while(stack.length != 0){
         let curr = stack.pop()
-        ans.push(curr.val)
+        arr.push(curr.val)
         curr.right && stack.push(curr.right)
         curr.left && stack.push(curr.left)
     }
-
-    return ans
+    return arr
 };

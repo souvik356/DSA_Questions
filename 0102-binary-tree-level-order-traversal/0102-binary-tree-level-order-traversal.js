@@ -11,17 +11,17 @@
  * @return {number[][]}
  */
 var levelOrder = function(root) {
-    let ans = []
-    if(!root) return ans
+    if(!root) return []
     let queue = [root]
+    let ans = []
     while(queue.length){
         let levelArr = []
-        let len = queue.length
-        for(let i=0;i<len;i++){
-            let curr = queue.shift()
+        let levelSize = queue.length
+        for(let i=0;i<levelSize;i++){
+            let curr= queue.shift()
+            curr.left && queue.push(curr.left)
+            curr.right && queue.push(curr.right)
             levelArr.push(curr.val)
-             curr.left && queue.push(curr.left)
-             curr.right && queue.push(curr.right)
         }
         ans.push(levelArr)
     }

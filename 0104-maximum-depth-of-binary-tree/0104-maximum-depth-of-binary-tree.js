@@ -12,13 +12,12 @@
  */
 var maxDepth = function(root) {
     let maxDepth = 0
-    if(!root) return 0
-    function traverse(curr,level){
-        maxDepth = Math.max(maxDepth,level)
-        curr.left && traverse(curr.left,level+1)
-        curr.right && traverse(curr.right,level+1)
+    if(!root) return maxDepth
+    function traverse(curr,depth){
+        maxDepth = Math.max(maxDepth,depth)
+        curr.left && traverse(curr.left,depth+1)
+        curr.right && traverse(curr.right,depth+1)
     }
-
     traverse(root,1)
     return maxDepth
 };

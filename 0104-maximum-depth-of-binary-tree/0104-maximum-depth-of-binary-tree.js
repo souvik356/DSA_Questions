@@ -11,13 +11,24 @@
  * @return {number}
  */
 var maxDepth = function(root) {
-    let maxDepth = 0
-    if(!root) return maxDepth
-    function traverse(curr,depth){
-        maxDepth = Math.max(maxDepth,depth)
-        curr.left && traverse(curr.left,depth+1)
-        curr.right && traverse(curr.right,depth+1)
-    }
-    traverse(root,1)
-    return maxDepth
+
+    // top-down approach
+
+    // let maxDepth = 0
+    // if(!root) return maxDepth
+    // function traverse(curr,depth){
+    //     maxDepth = Math.max(maxDepth,depth)
+    //     curr.left && traverse(curr.left,depth+1)
+    //     curr.right && traverse(curr.right,depth+1)
+    // }
+    // traverse(root,1)
+    // return maxDepth
+
+
+    // bottom-down approach
+    if(!root) return 0
+    let leftTree = maxDepth(root.left)
+    let rightTree = maxDepth(root.right)
+
+    return 1 + Math.max(leftTree,rightTree)
 };

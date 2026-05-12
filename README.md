@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/souvik356/DSA_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/souvik356/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/souvik356/DSA_Questions/tree/master/0141-linked-list-cycle) |
@@ -13,8 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/souvik356/DSA_Questions/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/souvik356/DSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/souvik356/DSA_Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/souvik356/DSA_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/souvik356/DSA_Questions/tree/master/0021-merge-two-sorted-lists) |
@@ -31,8 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/souvik356/DSA_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/souvik356/DSA_Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/souvik356/DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -48,8 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/souvik356/DSA_Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/souvik356/DSA_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/souvik356/DSA_Questions/tree/master/0024-swap-nodes-in-pairs) |
@@ -57,8 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0234-palindrome-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/souvik356/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/souvik356/DSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/souvik356/DSA_Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -67,26 +67,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/souvik356/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/souvik356/DSA_Questions/tree/master/0234-palindrome-linked-list) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/souvik356/DSA_Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/souvik356/DSA_Questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/souvik356/DSA_Questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/souvik356/DSA_Questions/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/souvik356/DSA_Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/souvik356/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/souvik356/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/souvik356/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/souvik356/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/souvik356/DSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/souvik356/DSA_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souvik356/DSA_Questions/tree/master/0101-symmetric-tree) |
@@ -104,8 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/souvik356/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/souvik356/DSA_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/souvik356/DSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/souvik356/DSA_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souvik356/DSA_Questions/tree/master/0101-symmetric-tree) |
@@ -121,8 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/souvik356/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/souvik356/DSA_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/souvik356/DSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/souvik356/DSA_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souvik356/DSA_Questions/tree/master/0101-symmetric-tree) |
@@ -140,8 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/souvik356/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/souvik356/DSA_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/souvik356/DSA_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souvik356/DSA_Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/souvik356/DSA_Questions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -153,13 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/souvik356/DSA_Questions/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/souvik356/DSA_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/souvik356/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/souvik356/DSA_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/souvik356/DSA_Questions/tree/master/0069-sqrtx) |
@@ -171,12 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/souvik356/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/souvik356/DSA_Questions/tree/master/0374-guess-number-higher-or-lower) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/souvik356/DSA_Questions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/souvik356/DSA_Questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/souvik356/DSA_Questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -195,23 +195,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/souvik356/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2942-find-words-containing-character](https://github.com/souvik356/DSA_Questions/tree/master/2942-find-words-containing-character) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0049-group-anagrams](https://github.com/souvik356/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/souvik356/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/souvik356/DSA_Questions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/souvik356/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/souvik356/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/souvik356/DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/souvik356/DSA_Questions/tree/master/0049-group-anagrams) |
@@ -226,23 +226,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/souvik356/DSA_Questions/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/souvik356/DSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/souvik356/DSA_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/souvik356/DSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/souvik356/DSA_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/souvik356/DSA_Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/souvik356/DSA_Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/souvik356/DSA_Questions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/souvik356/DSA_Questions/tree/master/0268-missing-number) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/souvik356/DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

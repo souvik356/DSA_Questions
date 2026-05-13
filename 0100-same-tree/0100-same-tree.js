@@ -12,14 +12,13 @@
  * @return {boolean}
  */
 var isSameTree = function(p, q) {
-    
-    function traversal(curr1,curr2){
-        if(!curr1 && !curr2) return true
-        if(!curr1 || !curr2) return false
-        if(curr1.val !== curr2.val) return false
+    if(!p && !q) return true
+    if(!p || !q) return false
 
-        return traversal(curr1.left,curr2.left) && traversal(curr1.right,curr2.right)
-    }
-    let ans = traversal(p,q)
-    return ans
+    if(p.val !== q.val) return false
+
+    let checkOuterTree = isSameTree(p.left,q.left)
+    let checkInnerTree = isSameTree(p.right,q.right)
+
+    return checkOuterTree && checkInnerTree
 };

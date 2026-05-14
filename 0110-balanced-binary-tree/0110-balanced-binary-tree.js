@@ -13,16 +13,19 @@
 var isBalanced = function(root) {
     let ans = true
     function traverse(curr){
-        if(!curr) return 0
-        const leftTree = traverse(curr.left)
-        const rightTree = traverse(curr.right)
+    if(!curr) return 0
 
-        let result = Math.abs(leftTree - rightTree)
-        if(result > 1){
-            ans = false
-        }
+    let leftTree = traverse(curr.left)
+    let rightTree = traverse(curr.right)
 
-        return 1 + Math.max(leftTree,rightTree)
+    let result = Math.abs(leftTree-rightTree)
+
+    if(result > 1){
+        ans = false
+        return
+    }
+
+    return 1 + Math.max(leftTree,rightTree)
     }
     traverse(root)
     return ans

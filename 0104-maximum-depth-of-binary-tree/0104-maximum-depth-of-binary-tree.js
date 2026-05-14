@@ -13,11 +13,11 @@
 var maxDepth = function(root) {
     let maxLevel = 0
     if(!root) return maxLevel
-    function depth(curr,level){
-        maxLevel = Math.max(maxLevel,level)
-        curr.left && depth(curr.left,level+1)
-        curr.right && depth(curr.right,level+1)
+    function traverse(curr,level){
+       maxLevel = Math.max(maxLevel,level)
+       curr.left && traverse(curr.left,level+1)
+       curr.right && traverse(curr.right,level+1)
     }
-    depth(root,1)
+    traverse(root,1)
     return maxLevel
 };

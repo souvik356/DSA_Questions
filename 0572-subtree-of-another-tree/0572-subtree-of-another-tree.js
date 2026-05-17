@@ -14,8 +14,6 @@
 var isSubtree = function(root, subRoot) {
     let mainTree = serialisation(root)
     let subTree = serialisation(subRoot)
-    // console.log(mainTree)
-    // console.log(subTree)
     return mainTree.includes(subTree)
 };
 
